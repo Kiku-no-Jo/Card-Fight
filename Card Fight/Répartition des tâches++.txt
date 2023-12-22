@@ -1,6 +1,6 @@
 - STD23027(Jonathan): s'est occupé de "Play.js" c'est à dire, créer des lignes de codes qui s'assure le bon fonctionnement et la suivie des normes du coeur du jeu. Et responsable du debug(verification des bugs et les corriger).
 
-- STD23081: s'est occupé du menu, des designes de resultats à afficher, l'assemblage des codes et de l'upload sur github.
+- STD23081(Hervino): s'est occupé du menu, des designes de resultats à afficher, l'assemblage des codes et de l'upload sur github.
 
 - Ce qui a mis beaucoup de difficulté? : premièrement la pensée qui cherche loin tandis que l'on peut effectuer ce code facilement avec de simples directives. Deuxièmement, séparer les codes en plusieurs parties était vraiment nécessaire vu qu'on peut se perdre facilement avec des longues lignes de code. Finalement, je dirais que le manque d'habitude à coder est le facteur qui a rendu le projet long à effectuer.
 
